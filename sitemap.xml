@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  https://shambhomart.github.io/
-https://shambhomart.github.io/about.html
-https://shambhomart.github.io/contact.html
-https://shambhomart.github.io/privacy-policy.html
-https://shambhomart.github.io/terms.html
-https://shambhomart.github.io/affiliate-disclosure.html
+
+  <url>
+    <loc>https://shambhomart.github.io/</loc>
+  </url>
+
+  <url>
+    <loc>https://shambhomart.github.io/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://shambhomart.github.io/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://shambhomart.github.io/privacy-policy.html</loc>
+  </url>
+
+  <url>
+    <loc>https://shambhomart.github.io/terms.html</loc>
+  </url>
+
+  <url>
+    <loc>https://shambhomart.github.io/affiliate-disclosure.html</loc>
+  </url>
+
 </urlset>
